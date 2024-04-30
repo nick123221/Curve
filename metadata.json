@@ -2,7 +2,7 @@
     "name": "Curve",
     "symbol": "Curve",
     "description": "Curve your future!",
-    "image": "https://github.com/nick123221/Curve/blob/main/CURVE1920x1920.png",
+    "image": "https://raw.githubusercontent.com/nick123221/Curve/main/CURVE1920x1920.png",
     "attributes": [
         {
             "trait_type": "Item",
