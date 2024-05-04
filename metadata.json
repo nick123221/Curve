@@ -1,12 +1,6 @@
 {
-    "name": "testtokenMF",
-    "symbol": "TTMF",
-    "description": "I am testing it MFs",
-    "image": "https://i.postimg.cc/Zqp3H61w/testtoken-1920x1920.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
-  }
+  "name": "TEST",
+  "symbol": "TEST",
+  "description": "TESTING HHAHAHHSHSHFGASHGHSAH.",
+  "image": "https://i.postimg.cc/Zqp3H61w/testtoken-1920x1920.png"
+}
